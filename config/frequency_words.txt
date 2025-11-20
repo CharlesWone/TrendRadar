@@ -21,12 +21,6 @@ DJI
 影之刃零
 梁其伟
 
-哪吒
-饺子
-杨宇
-!车
-!餐
-
 三体
 流浪地球
 刘慈欣
@@ -87,9 +81,6 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
-
 新质生产力
 
 月球
@@ -98,3 +89,18 @@ ai
 宇宙
 飞船
 航空
+
+web3
+区块链
+互联网
+去中心化
+量化
+
+telegram
+whatsapp
+line
+facebook
+twitter
+signal
+grok
+bitsky
